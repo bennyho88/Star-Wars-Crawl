@@ -22,7 +22,7 @@ p {
     color: rgb(75, 213, 238);
     font-weight: 400;
     font-size: 300%;
-     opacity: 0; */
+     opacity: 0; 
 }
 
 .introduction {
@@ -48,14 +48,17 @@ p {
 
 .logo {
     position: absolute;
-    top: 20%;
+    top: 40%;
     left: 30%;
     z-index: 1;
     margin: auto;
     animation: logo 9s ease-out 9s;
     opacity: 0;
+   
 
 }
+
+
 
 .logo svg {
     width: inherit;
